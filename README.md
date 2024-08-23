@@ -1,10 +1,10 @@
-Name:Kamble Rohit Ravindra
-Company:CODETECH IT SOLUTION
+Name:Kamble Rohit Ravindra Kamble.
+Company:CODETECH IT SOLUTION.
 ID::CT08DS6995
-Duration:August to September
-Mentor:Neela santosh kumar
+Duration:August to September.
+Mentor:Neela santosh kumar.
 
-Quiz Game in C
+Quiz Game in C:
 
 Overview:
 
