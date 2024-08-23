@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/da93dc1a-59c0-4b34-996a-0712afcf0646)Name:Kamble Rohit Ravindra
+Name:Kamble Rohit Ravindra
 Company:CODETECH IT SOLUTION
 ID::CT08DS6995
 Duration:August to September
@@ -19,4 +19,5 @@ Features:
 
 4) User-Friendly Interface: The game runs in the terminal with clear instructions and prompts.
 
+![Screenshot 2024-08-23 155746](https://github.com/user-attachments/assets/5f57a56c-4c60-4f60-980b-5dded81a28e4)
 
